@@ -25,6 +25,7 @@
 
 ### Product Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### Languages & Frameworks
@@ -59,15 +60,19 @@ Testing tone deafness? This project has a story to tell.
 ## 🌐 Connect With Me
 
 <div align="center">
+  
   [![Website](https://img.shields.io/badge/Website-anindilla.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anindilla.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dilleuh)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anindilla)  
+  
 </div>
 
 ---
 
 <div align="center">
+  
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anindilla&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
 
 ---
