@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Product+Person+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Just+Learning+Vibe-Coding+%F0%9F%9A%80;Co-founder+of+SPUN+%F0%9F%8E%89;Just+Here+For+Fun+%F0%9F%A4%9F&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000&vCenter=true&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Product+Person;+Learning+Vibe-Coding+%F0%9F%9A%80;Co-founder+of+SPUN+%F0%9F%8E%89;Just+Here+For+Fun+%F0%9F%A4%9F&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000&vCenter=true&size=30" />
 </div>
 
 <h1 align="center">Hey there! 👋 I'm Dilla</h1>
