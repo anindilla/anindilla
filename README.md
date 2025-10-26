@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Product+Person+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+Vibe-Coding+%F0%9F%9A%80;Co-founder+of+SPUN+%F0%9F%8E%89;Just+Here+For+Fun+%F0%9F%A4%9F&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000&vCenter=true&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Product+Person+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Just+Learning+Vibe-Coding+%F0%9F%9A%80;Co-founder+of+SPUN+%F0%9F%8E%89;Just+Here+For+Fun+%F0%9F%A4%9F&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000&vCenter=true&size=30" />
 </div>
 
 <h1 align="center">Hey there! 👋 I'm Dilla</h1>
 
-<h3 align="center">A product person who decided to vibe-code ✨</h3>
+<h3 align="center">A product person who decided to vibe-code on weekends ✨</h3>
 
 <div align="center">
   
@@ -20,7 +20,7 @@
 
 - Learning TypeScript & Python through fun projects
 - Building random stuff that makes me laugh
-- Figuring out what it means to "vibe-code" as a non-engineer
+- Figuring out what it means to "vibe-code" as an ex-engineering student
 - Creating chaos in the best possible way
 
 ---
@@ -30,7 +30,6 @@
 ### Product Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Product Hunt](https://img.shields.io/badge/Product%20Hunt-FF6154?style=for-the-badge&logo=product-hunt&logoColor=white)
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
