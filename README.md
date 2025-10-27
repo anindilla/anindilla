@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  "Mostly here to create problems." 🤪
+  Mostly here to create problems 🤪
   
-  Co-founder of [SPUN](https://github.com/spunglobal) | Building in Jakarta, Indonesia 🇮🇩
+  Co-founder of [SPUN](https://github.com/spunglobal) | Building in Jakarta 🇮🇩
   
 </div>
 
@@ -17,7 +17,7 @@
 - Learning TypeScript & Python through fun projects
 - Building random stuff that makes me laugh
 - Figuring out what it means to "vibe-code" as an ex-engineering student
-- Creating chaos in the best possible way
+- Creating chaos in the hackiest possible way
 
 ---
 
