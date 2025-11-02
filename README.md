@@ -19,6 +19,8 @@
 - Figuring out what it means to "vibe-code" as an ex-engineering student
 - Creating chaos in the hackiest possible way
 
+You can track my learning progress at https://github.com/users/anindilla/projects/2 or maybe recommend me what to build next there (lol)
+
 ---
 
 ## 🛠️ Tech Stack & Skills
