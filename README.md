@@ -48,8 +48,8 @@ Generate pantuns randomly, by mood, or through initial phrases. Because why not?
 ### 💪 [fix-my-form](https://github.com/anindilla/fix-my-form)
 Upload your workout video, we'll tell you how to improve your form. Built with Python!
 
-### 🗺️ [indonesia-is-big](https://github.com/anindilla/indonesia-is-big)
-Please stop asking me how big my country is in comparison to yours.
+### 🧡 [compatiblah](https://github.com/anindilla/compatiblah)
+See if you're compatible with your pal/coworker/partner
 
 ### 🎵 [tes-buta-nada](https://github.com/anindilla/tes-buta-nada)
 Testing tone deafness? This project has a story to tell.
