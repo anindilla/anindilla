@@ -14,7 +14,7 @@
 
 ## 🎯 Currently Vibing With
 
-- Learning TypeScript & Python through fun projects
+- Learning TypeScript, Python, Go & JavaScript through fun projects
 - Building random stuff that makes me laugh
 - Figuring out what it means to "vibe-code" as an ex-engineering student
 - Creating chaos in the hackiest possible way
@@ -31,6 +31,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
@@ -41,6 +43,9 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 💕 [compatiblah](https://github.com/anindilla/compatiblah)
+Fun app to test compatibility of 2 people as a friend, coworker, and partner. Built with Go!
 
 ### 🎭 [pantun-generator](https://github.com/anindilla/pantun-generator)
 Generate pantuns randomly, by mood, or through initial phrases. Because why not?
@@ -53,6 +58,9 @@ See if you're compatible with your pal/coworker/partner. Built using Go~
 
 ### 🎵 [tes-buta-nada](https://github.com/anindilla/tes-buta-nada)
 Testing tone deafness? This project has a story to tell.
+
+### 🇯🇵 [kanji-practice-innit](https://github.com/anindilla/kanji-practice-innit)
+Kanji is hard, let's practice.
 
 ---
 
