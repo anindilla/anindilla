@@ -44,23 +44,20 @@
 
 ## 🚀 Featured Projects
 
-### 💕 [compatiblah](https://github.com/anindilla/compatiblah)
-Fun app to test compatibility of 2 people as a friend, coworker, and partner. Built with Go!
+### 🧡 [compatiblah](https://github.com/anindilla/compatiblah)
+Fun app to test compatibility of 2 people as a friend, coworker, and partner. Built with Go.
 
 ### 🎭 [pantun-generator](https://github.com/anindilla/pantun-generator)
 Generate pantuns randomly, by mood, or through initial phrases. Because why not?
 
 ### 💪 [fix-my-form](https://github.com/anindilla/fix-my-form)
-Upload your workout video, we'll tell you how to improve your form. Built with Python!
-
-### 🧡 [compatiblah](https://github.com/anindilla/compatiblah)
-See if you're compatible with your pal/coworker/partner. Built using Go~
+Upload your workout video, we'll tell you how to improve your form. Built with Python.
 
 ### 🎵 [tes-buta-nada](https://github.com/anindilla/tes-buta-nada)
-Testing tone deafness? This project has a story to tell.
+Testing tone deafness? This project has a story to tell...
 
 ### 🇯🇵 [kanji-practice-innit](https://github.com/anindilla/kanji-practice-innit)
-Kanji is hard, let's practice.
+Kanji is hard, let's practice!
 
 ---
 
