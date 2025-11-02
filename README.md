@@ -49,7 +49,7 @@ Generate pantuns randomly, by mood, or through initial phrases. Because why not?
 Upload your workout video, we'll tell you how to improve your form. Built with Python!
 
 ### 🧡 [compatiblah](https://github.com/anindilla/compatiblah)
-See if you're compatible with your pal/coworker/partner
+See if you're compatible with your pal/coworker/partner. Built using Go~
 
 ### 🎵 [tes-buta-nada](https://github.com/anindilla/tes-buta-nada)
 Testing tone deafness? This project has a story to tell.
