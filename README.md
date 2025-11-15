@@ -83,13 +83,8 @@ Kanji is hard, let's practice!
   [![Website](https://img.shields.io/badge/Website-anindilla.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anindilla.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dilleuh)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anindilla)  
-
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" height="42"/>
   
 </div>
-
----
 
 <div align="center">
   
