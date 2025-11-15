@@ -56,6 +56,9 @@ You can track my learning progress at https://github.com/users/anindilla/project
 
 ## 🚀 Featured Projects
 
+### 🎤 [vocal-ambitus](https://github.com/anindilla/vocal-ambitus)
+Figure out which vocal range you belong to (and play with the spectrum). Built in TypeScript + Vercel.
+
 ### 🧡 [compatiblah](https://github.com/anindilla/compatiblah)
 Fun app to test compatibility of 2 people as a friend, coworker, and partner. Built with Go.
 
